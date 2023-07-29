@@ -1,16 +1,10 @@
-# animacoes_complexas
+# Sampa Connect
 
-A new Flutter project.
+Aplicativo desenvolvido durante o hackaton da 15ª Campus Party Brasil.
 
-## Getting Started
+![image](https://github.com/lucaspaludo/sampa-connect/assets/85973512/cefe1b75-e621-40a1-aaad-625c348a4780)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/lucaspaludo/sampa-connect/assets/85973512/517a80d4-dc28-40b8-8cc8-f68accbcee71)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
